@@ -1,0 +1,1 @@
+Le programme permet de purger, en fonction d'une date de retention definie, les index depuis une base elasticsearch.
