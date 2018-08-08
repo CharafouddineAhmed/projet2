@@ -1,0 +1,9 @@
+elastic:
+    host: localhost
+    port: 9200
+
+autre:
+    date_retention: 3
+
+index :
+    name: exemple-*

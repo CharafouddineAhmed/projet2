@@ -1,0 +1,5 @@
+ 2018-08-08 12:02:48,503 INFO HEAD http://localhost:9200/ [status:200 request:0.188s] 
+ 2018-08-08 12:02:48,507 INFO HEAD http://localhost:9200/ [status:200 request:0.003s] 
+ 2018-08-08 12:02:48,507 INFO True 
+ 2018-08-08 12:02:48,520 INFO GET http://localhost:9200/exemple-*/_alias [status:200 request:0.013s] 
+ 2018-08-08 12:02:48,521 INFO Programme fini sans probleme 
